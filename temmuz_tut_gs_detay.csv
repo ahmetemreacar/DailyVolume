@@ -1,0 +1,6 @@
+tarih,hisse,mevcut_sebep,mevcut_get%,tut_sebep,tut_get%,tut_gun,nerede,fark_%
+2026-07-01,AKYHO,gun_sonu,0.37,hedef,2.97,1,2026-07-02 12:02,2.6
+2026-07-02,KRTEK,gun_sonu,-2.08,stop,-3.03,2,2026-07-06 11:54,-0.95
+2026-07-06,TKNSA,gun_sonu,-0.29,stop,-3.03,2,2026-07-08 15:02,-2.74
+2026-07-09,ASUZU,gun_sonu,-1.05,veri_bitti,0.06,1,2026-07-10 kapanis,1.11
+2026-07-09,EYGYO,gun_sonu,-0.45,hedef,2.97,1,2026-07-10 13:37,3.42

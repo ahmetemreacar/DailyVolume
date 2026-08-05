@@ -1,0 +1,7 @@
+senaryo,kat,gruplar,sinyal,islem,son_tl,getiri_%,win_%,dip,kir,orta,hedef,stop
+5x_dip+kirilim,5.0x,dip+kirilim,721,713,184200.0,84.2,61.4,491,222,0,437,271
+3x_dip+kirilim,3.0x,dip+kirilim,1144,1144,156057.0,56.06,62.3,797,347,0,712,426
+5x_dip+kirilim+orta,5.0x,dip+kirilim+orta,2617,2617,112891.0,12.89,56.6,497,224,1896,1476,1130
+3x_dip+kirilim+orta,3.0x,dip+kirilim+orta,4208,4208,109503.0,9.5,57.1,797,347,3064,2399,1797
+5x_ORTA_sadece,5.0x,orta,1896,1896,94899.0,-5.1,54.6,0,0,1896,1033,857
+3x_ORTA_sadece,3.0x,orta,3064,3064,97712.0,-2.29,55.2,0,0,3064,1687,1371

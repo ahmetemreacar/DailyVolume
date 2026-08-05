@@ -1,0 +1,32 @@
+========================================================================================
+2026-07-01 -> 2026-07-11 | 5x+ DIP+KIRILIM | TP %3 SL %3 | evren_kucuk.csv
+DIP+KIRILIM gunleri: 2026-07-01 .. 2026-07-09 (7 gun)
+========================================================================================
+            grup  olay  gun   son_tl  getiri_%  win_%  hedef  stop  gun_sonu  ort_getiri_%  ort_max_%  ort_min_%
+     DIP+KIRILIM    20    7 103244.0      3.24   55.0     10     5         5          0.55       4.29      -3.05
+ELENEN orta/tepe    99    8 100704.0      0.70   46.5     41    40        18         -0.09       3.65      -4.24
+
+## DIP+KIRILIM ISLEMLER (20)
+     tarih hisse    grup  kat   giris    sebep  getiri_%  max_%  min_% cikis_saat  tf
+2026-07-01 AKCNS kirilim 12.1  231.00     stop     -3.03  -0.13  -4.72      10:23 1dk
+2026-07-01 AKSUE kirilim  8.3   39.10    hedef      2.97   9.82  -0.36      10:31 1dk
+2026-07-01 AKYHO     dip  5.9    2.46 gun_sonu      0.37   1.63  -0.81      18:05 1dk
+2026-07-01 ALCAR     dip  6.6  774.00    hedef      2.97   5.56  -2.39      10:24 1dk
+2026-07-01 BIGTK     dip  8.8  274.50    hedef      2.97   7.29  -3.46      10:40 1dk
+2026-07-02 KRTEK     dip 13.1   23.44 gun_sonu     -2.08   0.00  -2.39      18:08 1dk
+2026-07-03 AKYHO     dip  9.4    2.63     stop     -3.03   0.38  -3.42      10:17 1dk
+2026-07-03  ERCB     dip 17.4   51.95     stop     -3.03   1.83  -4.52      11:07 1dk
+2026-07-06 BLUME     dip  5.4   38.20    hedef      2.97   4.61  -3.14      10:07 1dk
+2026-07-06 EMKEL     dip  6.6   19.86    hedef      2.97   6.75  -3.63      10:02 1dk
+2026-07-06 JANTS     dip 79.5   17.78     stop     -3.03   1.01  -7.14      10:15 1dk
+2026-07-06 MERKO     dip  5.6    1.73    hedef      2.97   5.78  -3.47      10:00 1dk
+2026-07-06 OZYSR kirilim  5.0   13.20    hedef      2.97   6.06  -1.52      11:36 1dk
+2026-07-06 SUNTK     dip 10.9   29.70     stop     -3.03  -0.13  -6.87      10:33 1dk
+2026-07-06 TKNSA     dip 15.0   19.46 gun_sonu     -0.29   1.75  -0.36      18:09 1dk
+2026-07-07 DSTKF kirilim  9.8 3577.50    hedef      2.97   9.85  -1.68      16:01 1dk
+2026-07-08  TERA     dip 44.0  138.00    hedef      2.97  15.00   0.36      10:00 1dk
+2026-07-09 ASUZU     dip  9.2   53.90 gun_sonu     -1.05   1.11  -1.95      18:09 1dk
+2026-07-09 EYGYO     dip  5.3    2.38 gun_sonu     -0.45   1.26  -1.26      18:08 1dk
+2026-07-09 JANTS     dip 18.8   18.00    hedef      2.97   6.39  -8.33      10:02 1dk
+
+-> temmuz_2026_ozet.csv | temmuz_2026_dipkir.csv
