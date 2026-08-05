@@ -1,0 +1,18 @@
+/Users/ahmetemreacar/Desktop/DailyVolume/DailyVolume/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+YF cekiliyor: 36 hisse (2026-07-01 -> 2026-07-29)...
+  ... 10/36
+  ... 20/36
+  ... 30/36
+================================================================================
+FIYAT DOUBLE-CHECK | TV cache (saatlik) vs yfinance | temmuz_2026
+================================================================================
+Toplam: 45 | OK: 44 | Uyumsuz: 1 | Veri yok: 0
+
+## UYUMSUZ
+     tarih hisse  rapor_giris  tv_open  yf_open  yf_1h_open  open_fark_%  giris_tv_fark_%  giris_yf_fark_% sorun
+2026-07-27 ALKIM        16.71    16.71    16.71       16.71          0.0              0.0              0.0   LOW
+
+Open TV-YF ort fark: 0.000% | max: 0.000%
+
+-> temmuz_2026_fiyat_double_check.csv
