@@ -1,0 +1,9 @@
+pandas
+numpy
+# Veri kaynaklari (en az biri gerekli):
+# TradingView (oncelikli) - 5000 bar saatlik:
+git+https://github.com/rongardF/tvdatafeed.git
+# Yedek:
+yfinance
+# Opsiyonel (gelismis backtest motoru):
+backtesting

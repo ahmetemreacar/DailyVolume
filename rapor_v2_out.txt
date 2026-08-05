@@ -1,0 +1,291 @@
+========================================================================================
+HAZIRAN 2026 | 5x+ | 2026-06-01 -> 2026-06-30 | TP %3 SL %3 compound | evren_kucuk.csv
+Sinyal gunleri: 2026-06-01 .. 2026-06-30 (19 gun)
+========================================================================================
+
+## OZET
+            grup  olay  gun   son_tl  getiri_%  win_%  hedef  stop  gun_sonu  ort_getiri_%  ort_max_%  ort_min_%  medyan_max_%  medyan_min_%
+     DIP+KIRILIM    53   19 116850.0     16.85   54.7     26    14        13          0.53       3.93      -3.84          3.28         -2.65
+ELENEN orta/tepe   176   22 102183.0      2.18   46.6     71    71        34         -0.05       3.51      -4.40          2.64         -3.54
+
+## DIP + KIRILIM — HISSE PERFORMANSI (kar/zarar, max/min)
+hisse    grup  olay  hedef  stop  gun_sonu durum  compound_%  toplam_getiri_%  ort_getiri_%  ort_max_%  ort_min_%  en_yuksek_max_%  en_derin_min_%                   tarihler
+BORLS     DIP     2      2     0         0   KAR        6.03             5.94          2.97       8.03      -3.34             9.60           -6.53               06-22, 06-24
+IHLAS     DIP     4      3     1         0   KAR        5.87             5.88          1.47       4.26      -4.32             7.32           -7.59 06-09, 06-18, 06-22, 06-23
+BIGCH     DIP     1      1     0         0   KAR        2.97             2.97          2.97      13.24       0.00            13.24            0.00                      06-19
+ENSRI     DIP     1      1     0         0   KAR        2.97             2.97          2.97       6.87      -0.58             6.87           -0.58                      06-22
+IHLGM     DIP     1      1     0         0   KAR        2.97             2.97          2.97       5.29      -6.25             5.29           -6.25                      06-23
+IHYAY     DIP     1      1     0         0   KAR        2.97             2.97          2.97       5.41      -8.11             5.41           -8.11                      06-23
+TUREX     DIP     1      1     0         0   KAR        2.97             2.97          2.97       7.61      -7.17             7.61           -7.17                      06-04
+VSNMD     DIP     1      1     0         0   KAR        2.97             2.97          2.97       7.07      -0.88             7.07           -0.88                      06-29
+YAYLA     DIP     1      1     0         0   KAR        2.97             2.97          2.97       6.63       0.00             6.63            0.00                      06-18
+TRILC     DIP     1      0     0         1 ZARAR       -0.03            -0.03         -0.03       0.00      -2.22             0.00           -2.22                      06-11
+DERHL     DIP     2      1     1         0 ZARAR       -0.15            -0.06         -0.03       2.02      -6.90             3.76           -9.99               06-02, 06-08
+VESBE     DIP     2      1     1         0 ZARAR       -0.15            -0.06         -0.03       3.32      -6.76             5.87          -13.39               06-29, 06-30
+INTEK     DIP     1      0     0         1 ZARAR       -0.28            -0.28         -0.28       0.00      -0.81             0.00           -0.81                      06-15
+PKENT     DIP     1      0     0         1 ZARAR       -0.37            -0.37         -0.37       1.64      -0.68             1.64           -0.68                      06-30
+FORMT     DIP     2      0     0         2 ZARAR       -0.50            -0.50         -0.25       1.13      -0.90             1.34           -1.34               06-29, 06-30
+KRTEK     DIP     1      0     0         1 ZARAR       -0.60            -0.60         -0.60       0.56      -0.81             0.56           -0.81                      06-05
+CMBTN     DIP     1      0     0         1 ZARAR       -0.66            -0.66         -0.66       1.93      -1.06             1.93           -1.06                      06-05
+BMSCH     DIP     1      0     0         1 ZARAR       -2.55            -2.55         -2.55       1.46      -2.65             1.46           -2.65                      06-29
+BANVT     DIP     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       8.80      -4.62             8.80           -4.62                      06-18
+EMKEL     DIP     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       0.39     -12.42             0.39          -12.42                      06-05
+KUTPO     DIP     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       1.54      -3.03             1.54           -3.03                      06-29
+KZBGY     DIP     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       0.31      -5.92             0.31           -5.92                      06-11
+MARMR     DIP     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       0.00      -9.93             0.00           -9.93                      06-29
+POLTK     DIP     2      0     1         1 ZARAR       -4.82            -4.88         -2.44       0.22      -3.72             0.43           -5.14               06-08, 06-24
+DIRIT     DIP     2      0     2         0 ZARAR       -5.97            -6.06         -3.03       0.00     -10.80             0.00          -14.31               06-09, 06-10
+SEKUR KIRILIM     2      2     0         0   KAR        6.03             5.94          2.97       7.35      -3.96             9.79           -4.69               06-08, 06-09
+KOCMT KIRILIM     2      1     0         1   KAR        4.19             4.15          2.08       4.85      -0.46             6.98           -0.91               06-29, 06-30
+AKFYE KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       6.46       0.00             6.46            0.00                      06-08
+ AYEN KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       8.32      -2.57             8.32           -2.57                      06-10
+CGCAM KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       6.02      -6.50             6.02           -6.50                      06-03
+DGGYO KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       9.84      -3.88             9.84           -3.88                      06-16
+EUKYO KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       8.27       0.00             8.27            0.00                      06-16
+KARTN KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       5.07      -1.61             5.07           -1.61                      06-03
+KRONT KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       5.42      -3.00             5.42           -3.00                      06-30
+KRVGD KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       5.00      -4.12             5.00           -4.12                      06-02
+VERUS KIRILIM     1      1     0         0   KAR        2.97             2.97          2.97       8.81       0.00             8.81            0.00                      06-15
+BARMA KIRILIM     1      0     0         1   KAR        1.30             1.30          1.30       2.08      -1.04             2.08           -1.04                      06-11
+HRKET KIRILIM     1      0     0         1 ZARAR       -0.03            -0.03         -0.03       0.00       0.00             0.00            0.00                      06-01
+ATSYH KIRILIM     1      0     0         1 ZARAR       -2.32            -2.32         -2.32       0.00      -2.29             0.00           -2.29                      06-26
+ISGYO KIRILIM     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       2.33     -10.21             2.33          -10.21                      06-29
+MTRKS KIRILIM     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       0.07      -4.64             0.07           -4.64                      06-15
+VBTYZ KIRILIM     1      0     1         0 ZARAR       -3.03            -3.03         -3.03       0.78      -5.73             0.78           -5.73                      06-15
+
+## DIP+KIRILIM — TUM OLAYLAR (alarm sonrasi max/min dahil)
+     tarih hisse    grup    kat   giris    sebep durum  getiri_%  max_%  min_% max_saat min_saat   tf
+2026-06-01 HRKET kirilim    6.3   96.50 gun_sonu ZARAR     -0.03   0.00   0.00                   15dk
+2026-06-02 DERHL     dip    8.1   15.42    hedef   KAR      2.97   3.76  -9.99    10:00    13:30 15dk
+2026-06-02 KRVGD kirilim    5.4    3.40    hedef   KAR      2.97   5.00  -4.12    13:00    18:00 15dk
+2026-06-03 CGCAM kirilim    6.6   46.48    hedef   KAR      2.97   6.02  -6.50    10:00    18:00 15dk
+2026-06-03 KARTN kirilim    7.7  130.10    hedef   KAR      2.97   5.07  -1.61    10:00    10:00 15dk
+2026-06-04 TUREX     dip    5.1    9.20    hedef   KAR      2.97   7.61  -7.17    10:45    17:30 15dk
+2026-06-05 CMBTN     dip   19.5 1606.00 gun_sonu ZARAR     -0.66   1.93  -1.06    11:30    10:00 15dk
+2026-06-05 EMKEL     dip    9.8   25.92     stop ZARAR     -3.03   0.39 -12.42    10:00    17:45 15dk
+2026-06-05 KRTEK     dip    6.5   24.82 gun_sonu ZARAR     -0.60   0.56  -0.81    10:00    10:45  1dk
+2026-06-08 AKFYE kirilim   20.5   26.00    hedef   KAR      2.97   6.46   0.00    10:00          15dk
+2026-06-08 DERHL     dip    7.5   14.20     stop ZARAR     -3.03   0.28  -3.80    10:00    15:45 15dk
+2026-06-08 POLTK     dip    9.1 5250.00     stop ZARAR     -3.03   0.43  -5.14    10:00    11:30 15dk
+2026-06-08 SEKUR kirilim   14.9    8.07    hedef   KAR      2.97   9.79  -3.22    15:15    10:00 15dk
+2026-06-09 DIRIT     dip    9.2   26.84     stop ZARAR     -3.03   0.00 -14.31             17:55  1dk
+2026-06-09 IHLAS     dip    9.1    1.45     stop ZARAR     -3.03   1.38  -7.59    10:00    15:15 15dk
+2026-06-09 SEKUR kirilim    8.8    8.96    hedef   KAR      2.97   4.91  -4.69    16:00    10:15 15dk
+2026-06-10  AYEN kirilim   17.7   38.92    hedef   KAR      2.97   8.32  -2.57    10:15    17:30 15dk
+2026-06-10 DIRIT     dip    6.5   23.00     stop ZARAR     -3.03   0.00  -7.30             13:55  1dk
+2026-06-11 BARMA kirilim    8.9   67.30 gun_sonu   KAR      1.30   2.08  -1.04    16:45    10:00 15dk
+2026-06-11 KZBGY     dip    7.3    3.21     stop ZARAR     -3.03   0.31  -5.92    10:00    15:45 15dk
+2026-06-11 TRILC     dip   18.2    1.35 gun_sonu ZARAR     -0.03   0.00  -2.22             13:55  1dk
+2026-06-15 INTEK     dip    6.1  247.00 gun_sonu ZARAR     -0.28   0.00  -0.81             13:55  1dk
+2026-06-15 MTRKS kirilim    6.0   28.90     stop ZARAR     -3.03   0.07  -4.64    13:47    17:18  1dk
+2026-06-15 VBTYZ kirilim    9.4   33.50     stop ZARAR     -3.03   0.78  -5.73    16:29    15:59  1dk
+2026-06-15 VERUS kirilim    7.3  624.50    hedef   KAR      2.97   8.81   0.00    13:33           1dk
+2026-06-16 DGGYO kirilim    7.3   34.54    hedef   KAR      2.97   9.84  -3.88    10:50    10:02  1dk
+2026-06-16 EUKYO kirilim    8.4    9.80    hedef   KAR      2.97   8.27   0.00    10:00           1dk
+2026-06-18 BANVT     dip   11.1  162.50     stop ZARAR     -3.03   8.80  -4.62    13:56    10:01  1dk
+2026-06-18 IHLAS     dip    6.4    1.22    hedef   KAR      2.97   3.28  -1.64    13:00    10:00 15dk
+2026-06-18 YAYLA     dip   11.9   25.64    hedef   KAR      2.97   6.63   0.00    10:01           1dk
+2026-06-19 BIGCH     dip 1576.1    6.80    hedef   KAR      2.97  13.24   0.00    10:00           1dk
+2026-06-22 BORLS     dip    9.8    6.66    hedef   KAR      2.97   6.46  -0.15    13:45    10:00  1dk
+2026-06-22 ENSRI     dip   17.7    6.84    hedef   KAR      2.97   6.87  -0.58    10:38    18:05  1dk
+2026-06-22 IHLAS     dip    6.0    1.23    hedef   KAR      2.97   7.32  -0.81    10:00    10:00 15dk
+2026-06-23 IHLAS     dip    9.2    1.38    hedef   KAR      2.97   5.07  -7.25    10:00    17:45 15dk
+2026-06-23 IHLGM     dip   12.1    2.08    hedef   KAR      2.97   5.29  -6.25    10:00    17:47  1dk
+2026-06-23 IHYAY     dip    6.8    1.85    hedef   KAR      2.97   5.41  -8.11    10:00    17:46  1dk
+2026-06-24 BORLS     dip    5.9    7.81    hedef   KAR      2.97   9.60  -6.53    11:20    16:28  1dk
+2026-06-24 POLTK     dip   15.7 5097.50 gun_sonu ZARAR     -1.85   0.00  -2.31             10:15 15dk
+2026-06-26 ATSYH kirilim    5.4  113.60 gun_sonu ZARAR     -2.32   0.00  -2.29             17:55  1dk
+2026-06-29 BMSCH     dip   86.2   15.08 gun_sonu ZARAR     -2.55   1.46  -2.65    10:05    17:59  1dk
+2026-06-29 FORMT     dip    5.3    2.24 gun_sonu ZARAR     -0.93   1.34  -1.34    10:50    14:37  1dk
+2026-06-29 ISGYO kirilim    8.1   27.42     stop ZARAR     -3.03   2.33 -10.21    10:00    18:05  1dk
+2026-06-29 KOCMT kirilim    6.8    3.31 gun_sonu   KAR      1.18   2.72  -0.91    10:27    10:00  1dk
+2026-06-29 KUTPO     dip    5.5   87.60     stop ZARAR     -3.03   1.54  -3.03    10:17    16:35  1dk
+2026-06-29 MARMR     dip   14.0    2.72     stop ZARAR     -3.03   0.00  -9.93             17:51  1dk
+2026-06-29 VESBE     dip   48.8    6.99    hedef   KAR      2.97   5.87  -0.14    10:04    10:00  1dk
+2026-06-29 VSNMD     dip    5.5  101.90    hedef   KAR      2.97   7.07  -0.88    11:19    10:07  1dk
+2026-06-30 FORMT     dip   12.1    2.18 gun_sonu   KAR      0.43   0.92  -0.46    10:07    10:00  1dk
+2026-06-30 KOCMT kirilim    7.5    3.44    hedef   KAR      2.97   6.98   0.00    10:01           1dk
+2026-06-30 KRONT kirilim   18.9   23.98    hedef   KAR      2.97   5.42  -3.00    16:36    10:00  1dk
+2026-06-30 PKENT     dip    5.6  146.50 gun_sonu ZARAR     -0.37   1.64  -0.68    10:15    17:58  1dk
+2026-06-30 VESBE     dip   15.4    7.69     stop ZARAR     -3.03   0.78 -13.39    10:00    15:18  1dk
+
+## ELENEN — TUM OLAYLAR (alarm sonrasi max/min dahil)
+     tarih hisse grup   kat        giris    sebep durum  getiri_%  max_%  min_% max_saat min_saat   tf
+2026-06-01 IDGYO orta   8.5     4.220000    hedef   KAR      2.97   5.45  -0.47    15:15    10:00 15dk
+2026-06-01 NUGYO orta   8.1    10.410000     stop ZARAR     -3.03   1.92  -4.90    10:00    16:15 15dk
+2026-06-02 ERBOS orta   7.9   193.800000    hedef   KAR      2.97   3.92   0.00    16:03           1dk
+2026-06-02 HRKET tepe   7.9    99.850000     stop ZARAR     -3.03   6.26  -7.86    13:15    10:30 15dk
+2026-06-02 KLSER orta   5.2    31.480000     stop ZARAR     -3.03   0.32  -4.64    10:00    10:15 15dk
+2026-06-02 MEPET orta   7.6    24.080000    hedef   KAR      2.97   4.24  -2.74    10:00    10:00 15dk
+2026-06-02 PAMEL orta  11.7    93.750000     stop ZARAR     -3.03   0.75  -4.53    10:00    10:15 15dk
+2026-06-03 AKMGY orta  12.4   294.500000     stop ZARAR     -3.03   0.17  -7.56    10:00    18:00 15dk
+2026-06-03 BARMA tepe   9.4    60.150000 gun_sonu   KAR      0.22   2.66  -1.41    15:15    10:00 15dk
+2026-06-03 BINBN orta   5.3   197.000000     stop ZARAR     -3.03   2.18  -8.63    10:00    17:45 15dk
+2026-06-03 BLCYT orta  58.4    44.160000     stop ZARAR     -3.03   0.00 -18.12             10:30 15dk
+2026-06-03 KNFRT orta   8.1    15.050000    hedef   KAR      2.97   6.91   0.00    10:00          15dk
+2026-06-03 MEPET orta  12.9    25.880000    hedef   KAR      2.97   5.49  -1.08    10:00    10:00 15dk
+2026-06-03 MSGYO orta   5.5     6.700000     stop ZARAR     -3.03   3.58  -4.48    15:45    10:15 15dk
+2026-06-03 NUGYO orta   8.7    11.300000     stop ZARAR     -3.03   1.15  -6.11    10:00    17:15 15dk
+2026-06-03 OZGYO orta   6.2     2.170000 gun_sonu ZARAR     -2.34   2.76  -2.76    12:00    16:45 15dk
+2026-06-04 ARTMS orta   9.8    48.880000    hedef   KAR      2.97   4.44  -9.94    10:00    14:30 15dk
+2026-06-04 CGCAM tepe   5.9    46.020000     stop ZARAR     -3.03   3.87  -4.09    17:45    12:30 15dk
+2026-06-04 CUSAN orta  29.0    28.760000     stop ZARAR     -3.03   3.20  -6.88    14:00    11:15 15dk
+2026-06-04 DIRIT orta   5.6    24.980000    hedef   KAR      2.97   8.01   0.00    17:55           1dk
+2026-06-04  EKIZ orta   5.4    85.000000    hedef   KAR      2.97   5.88   0.00    17:55           1dk
+2026-06-04 HRKET tepe   6.5   116.700000    hedef   KAR      2.97   7.71  -4.97    14:45    10:45 15dk
+2026-06-04 KNFRT orta   9.4    16.690000    hedef   KAR      2.97   5.09  -5.45    16:30    11:15 15dk
+2026-06-04 LUKSK orta  29.9   118.500000     stop ZARAR     -3.03   0.25  -7.76    10:00    14:30 15dk
+2026-06-04 MAKIM orta  20.2    19.590000     stop ZARAR     -3.03   0.77  -9.34    10:00    17:30 15dk
+2026-06-04  UFUK orta  27.9  1387.000000     stop ZARAR     -3.03   0.00 -10.89             12:00 15dk
+2026-06-05 AVGYO orta  83.5    14.000000     stop ZARAR     -3.03   1.57  -7.07    10:00    17:15 15dk
+2026-06-05 AVHOL orta  11.4    51.800000    hedef   KAR      2.97   5.21  -9.61    10:56    14:10  1dk
+2026-06-05 BARMA tepe  34.9    59.050000    hedef   KAR      2.97   4.23  -0.25    16:15    10:00 15dk
+2026-06-05 DITAS orta   6.0    43.200000     stop ZARAR     -3.03   1.48  -8.24    10:00    10:30 15dk
+2026-06-05 ISKPL orta   5.8    15.210000    hedef   KAR      2.97  11.05   0.00    14:15          15dk
+2026-06-05 ULUFA orta   8.6     2.000000    hedef   KAR      2.97   5.00  -2.75    10:00    14:30 15dk
+2026-06-08 MMCAS orta   7.3    61.050000 gun_sonu   KAR      1.44   2.46   0.00    13:55           1dk
+2026-06-08 MRSHL orta   5.8  1568.000000 gun_sonu ZARAR     -0.67   0.32  -0.64    17:19    17:59  1dk
+2026-06-08 ORCAY orta   5.0     4.050000    hedef   KAR      2.97  21.73   0.00    11:35           1dk
+2026-06-09 AKFYE tepe  18.3    29.000000     stop ZARAR     -3.03   1.17  -7.86    10:00    12:15 15dk
+2026-06-09 AVGYO orta   9.9    15.200000     stop ZARAR     -3.03   0.99  -9.21    10:00    10:45 15dk
+2026-06-09 EGGUB orta   5.7   110.500000    hedef   KAR      2.97   8.33  -3.17    10:30    10:00 15dk
+2026-06-09  EKIZ orta   9.0    78.200000    hedef   KAR      2.97   7.93   0.00    17:55           1dk
+2026-06-09 KUVVA tepe   7.6   166.000000     stop ZARAR     -3.03   0.00  -4.76             10:01  1dk
+2026-06-09 MEGMT orta   5.5    78.550000    hedef   KAR      2.97   8.21  -0.06    10:00    10:00 15dk
+2026-06-09 RAYSG orta  22.2   204.400000     stop ZARAR     -3.03   4.50  -6.56    14:30    13:30 15dk
+2026-06-10 A1CAP orta   9.7    11.130000     stop ZARAR     -3.03   2.70 -10.15    10:00    18:00 15dk
+2026-06-10  DAGI orta  49.7     6.610000    hedef   KAR      2.97  11.50   0.00    12:30          15dk
+2026-06-10 DERIM tepe  48.7    44.380000     stop ZARAR     -3.03   0.99  -9.60    10:00    12:04  1dk
+2026-06-10 GSDDE orta   5.8    16.010000     stop ZARAR     -3.03   0.75 -14.05    10:15    18:00 15dk
+2026-06-10 GSDHO tepe  12.0     6.770000     stop ZARAR     -3.03   2.22 -12.41    10:00    17:45 15dk
+2026-06-10 LYDYE orta  11.7 15020.000000     stop ZARAR     -3.03   2.36  -3.65    12:54    10:15  1dk
+2026-06-11 ANGEN orta   5.6    12.650000     stop ZARAR     -3.03   1.98 -12.73    10:00    16:30 15dk
+2026-06-11 BRISA orta   9.0    85.500000    hedef   KAR      2.97   6.14   0.00    18:05           1dk
+2026-06-11 BRKSN orta   6.4     8.060000     stop ZARAR     -3.03   0.37  -3.85    10:01    13:54  1dk
+2026-06-11 DNISI orta  54.0    21.780000    hedef   KAR      2.97   4.59  -5.14    10:00    17:15 15dk
+2026-06-11 GOODY orta  19.3    15.150000    hedef   KAR      2.97   8.65   0.00    11:30          15dk
+2026-06-11 KRGYO orta   6.3     3.020000 gun_sonu   KAR      0.63   2.32  -0.99    17:55    17:01  1dk
+2026-06-11 MERKO orta   5.8     1.990000    hedef   KAR      2.97   4.52  -2.51    10:15    14:15 15dk
+2026-06-11 OFSYM orta   8.5    64.800000    hedef   KAR      2.97   5.71 -12.04    10:00    17:00 15dk
+2026-06-11 RTALB orta   6.5     4.030000     stop ZARAR     -3.03   0.00 -13.40             18:00 15dk
+2026-06-12 BRKSN orta   6.7     8.030000 gun_sonu ZARAR     -0.78   0.87  -2.24    15:33    17:48  1dk
+2026-06-12 BRKVY orta  10.5   102.100000    hedef   KAR      2.97   3.33  -8.91    11:44    17:01  1dk
+2026-06-12 EDATA orta   7.9    17.550000    hedef   KAR      2.97   5.75  -4.96    10:15    10:00 15dk
+2026-06-12 FZLGY tepe   6.6    18.170000    hedef   KAR      2.97   3.25  -3.63    10:00    11:00 15dk
+2026-06-12 ICUGS orta   6.5     4.470000     stop ZARAR     -3.03  14.77  -5.82    13:00    10:15 15dk
+2026-06-12 LYDYE orta   7.5 13995.000000     stop ZARAR     -3.03   0.73  -3.54    10:00    13:07  1dk
+2026-06-12 OSTIM orta  16.3     2.333331    hedef   KAR      2.97   5.40 -13.65    10:00    17:00 15dk
+2026-06-12 SDTTR orta   5.1   245.100000    hedef   KAR      2.97   5.37  -0.16    12:45    10:00 15dk
+2026-06-12 VKGYO orta   8.4     2.710000 gun_sonu   KAR      0.71   1.48  -0.37    11:26    16:46  1dk
+2026-06-12 ZRGYO orta   5.2    17.090000     stop ZARAR     -3.03   0.41  -3.45    16:33    17:01  1dk
+2026-06-15 ALBRK orta   6.4     8.900000 gun_sonu ZARAR     -0.82   0.00  -0.79             18:05  1dk
+2026-06-15 BIZIM orta   5.2    27.200000 gun_sonu   KAR      0.63   1.18  -0.15    17:08    10:00  1dk
+2026-06-15 DENGE orta   8.1     2.470000 gun_sonu ZARAR     -0.03   0.00   0.00                    1dk
+2026-06-15 ENERY orta   8.6     9.880000    hedef   KAR      2.97   4.25  -6.07    11:30    17:45 15dk
+2026-06-15 INVES orta   8.8   660.000000    hedef   KAR      2.97   9.24   0.00    14:08           1dk
+2026-06-15 KARTN orta   7.9   127.000000    hedef   KAR      2.97   6.06  -2.76    10:00    10:30 15dk
+2026-06-15 PAMEL orta   5.6    89.950000 gun_sonu ZARAR     -0.03   0.00   0.00                   15dk
+2026-06-15 VKGYO orta   6.8     2.770000 gun_sonu   KAR      1.77   2.53  -0.36    16:27    10:00  1dk
+2026-06-16 AVTUR orta   7.2    17.500000 gun_sonu ZARAR     -2.03   0.29  -2.86    10:30    16:52  1dk
+2026-06-16  BRKO tepe  13.8    16.630000 gun_sonu ZARAR     -0.09   0.00  -0.06             13:55  1dk
+2026-06-16 DENGE orta  34.5     2.660000     stop ZARAR     -3.03   1.88  -7.14    10:01    17:52  1dk
+2026-06-16 DNISI tepe  13.8    23.700000     stop ZARAR     -3.03   0.25  -4.05    10:00    17:30 15dk
+2026-06-16 FRIGO orta   7.2     2.800000     stop ZARAR     -3.03   2.14 -10.36    12:01    17:46  1dk
+2026-06-16 ISGSY orta   7.2   117.400000     stop ZARAR     -3.03   0.17  -3.75    17:16    16:01  1dk
+2026-06-16 KTSKR orta   5.8   101.000000    hedef   KAR      2.97   4.85  -3.71    10:01    17:20  1dk
+2026-06-16 PAMEL orta   8.6    92.650000     stop ZARAR     -3.03   1.46  -7.88    10:00    10:15 15dk
+2026-06-16 PARSN orta   5.6    93.050000    hedef   KAR      2.97   3.01  -2.04    10:39    10:09  1dk
+2026-06-16 SKTAS orta   7.7     3.820000    hedef   KAR      2.97   8.12  -0.26    17:43    10:00  1dk
+2026-06-17 ALGYO orta  23.2     4.760000    hedef   KAR      2.97   4.41  -0.42    10:43    17:20  1dk
+2026-06-17 ATEKS orta   5.1   130.000000 gun_sonu   KAR      0.20   0.23   0.00    18:05           1dk
+2026-06-17 GATEG orta   9.4   294.000000 gun_sonu ZARAR     -1.22   0.00  -1.19             18:05  1dk
+2026-06-17 NETAS orta   8.3    71.900000     stop ZARAR     -3.03   2.02  -4.94    13:08    10:46  1dk
+2026-06-17 SKTAS orta   8.4     4.130000     stop ZARAR     -3.03   9.93  -4.84    17:15    10:00 15dk
+2026-06-17  SOKE orta  13.9    17.370000     stop ZARAR     -3.03   1.67  -8.41    10:00    17:37  1dk
+2026-06-17 SONME orta  16.6   133.800000    hedef   KAR      2.97   7.55  -1.64    10:09    10:00  1dk
+2026-06-17 VERTU orta   8.2    47.800000     stop ZARAR     -3.03   2.64  -7.24    10:02    17:39  1dk
+2026-06-18  AYEN tepe   6.9    45.800000     stop ZARAR     -3.03   0.00 -11.09             16:15 15dk
+2026-06-18 BASGZ orta  20.3    48.320000    hedef   KAR      2.97   4.82  -2.77    18:05    11:01  1dk
+2026-06-18 BMSTL orta  11.3    97.100000 gun_sonu ZARAR     -1.17   1.44  -2.52    16:51    10:19  1dk
+2026-06-18  BRKO tepe   5.9    15.000000 gun_sonu   KAR      2.63   2.67  -0.07    18:05    13:55  1dk
+2026-06-18 BRMEN tepe  28.5    14.000000    hedef   KAR      2.97   6.14   0.00    17:55           1dk
+2026-06-18  INFO orta   6.3     4.500000    hedef   KAR      2.97   8.44  -3.33    17:38    13:45  1dk
+2026-06-18 IZINV orta  14.9    71.800000     stop ZARAR     -3.03   0.00 -10.10             14:47  1dk
+2026-06-18 OYYAT orta  38.3    50.700000    hedef   KAR      2.97   4.14 -10.10    10:02    18:05  1dk
+2026-06-18 PRKME orta  13.6    19.660000    hedef   KAR      2.97   5.90  -3.31    15:30    11:00  1dk
+2026-06-18 TURGG orta  18.6    31.840000     stop ZARAR     -3.03   2.20  -8.29    10:05    17:45  1dk
+2026-06-19 ATEKS orta   5.1   141.600000     stop ZARAR     -3.03   0.00  -8.90             13:55  1dk
+2026-06-19  BRKO tepe   5.7    16.000000 gun_sonu ZARAR     -0.03   0.12   0.00    13:55           1dk
+2026-06-19 BRMEN tepe   5.6    16.340000 gun_sonu ZARAR     -0.03   0.00  -2.08             13:55  1dk
+2026-06-19 DMSAS orta  14.7     9.500000    hedef   KAR      2.97   4.95  -0.84    12:41    10:00  1dk
+2026-06-19 FRIGO orta  63.8     1.840000    hedef   KAR      2.97   7.07   0.00    10:03           1dk
+2026-06-19  INFO orta   5.6     4.980000    hedef   KAR      2.97   7.63  -0.60    10:10    10:00  1dk
+2026-06-19 ISGSY orta   5.4   125.000000    hedef   KAR      2.97   5.44  -2.32    10:16    10:00  1dk
+2026-06-19 KLYPV orta   7.9    66.100000     stop ZARAR     -3.03   1.29  -5.30    10:00    10:49  1dk
+2026-06-19 LYDYE orta   7.0 13862.500000    hedef   KAR      2.97   5.32  -0.81    10:06    14:22  1dk
+2026-06-19 OZATD orta   7.7  1535.000000    hedef   KAR      2.97   4.17  -2.35    10:00    10:17  1dk
+2026-06-19 SNICA orta   5.6     4.230000 gun_sonu ZARAR     -1.92   0.71  -2.36    10:00    11:15  1dk
+2026-06-19 YAYLA orta  20.9    28.820000     stop ZARAR     -3.03   0.21 -13.67    10:00    18:05  1dk
+2026-06-22 BAKAB tepe   6.3    56.400000    hedef   KAR      2.97   3.63  -4.61    10:20    17:06  1dk
+2026-06-22 BOBET orta  19.0    20.980000     stop ZARAR     -3.03   0.10  -3.53    10:01    10:32  1dk
+2026-06-22 DGGYO tepe  26.7    45.100000    hedef   KAR      2.97   3.59 -10.20    10:00    11:08  1dk
+2026-06-22 DMRGD tepe   5.9    11.090000    hedef   KAR      2.97   5.50  -0.36    12:34    10:56  1dk
+2026-06-22 ISFIN tepe   5.4    21.000000 gun_sonu ZARAR     -1.65   0.95  -1.90    10:07    17:56  1dk
+2026-06-22 MTRYO orta   7.4    11.420000    hedef   KAR      2.97   3.68  -2.80    10:12    10:00  1dk
+2026-06-22 PSDTC orta  13.1   130.200000 gun_sonu   KAR      0.35   0.38  -2.07    10:00    10:00  1dk
+2026-06-22 SEKUR orta   8.0     8.370000    hedef   KAR      2.97  22.22   0.00    14:15          15dk
+2026-06-23 AYDEM orta   6.5    27.380000     stop ZARAR     -3.03   0.00  -5.04             17:41  1dk
+2026-06-23 BALSU orta  25.8    16.110000    hedef   KAR      2.97   5.40  -1.74    10:04    10:01  1dk
+2026-06-23 BRMEN tepe  10.6    19.760000 gun_sonu ZARAR     -0.03   0.00   0.00                    1dk
+2026-06-23 IHGZT orta  10.0     1.470000     stop ZARAR     -3.03   1.36  -6.12    10:00    17:26  1dk
+2026-06-23 INGRM orta   6.0   412.750000 gun_sonu   KAR      0.03   2.60  -0.79    16:38    17:49  1dk
+2026-06-23 KBORU tepe   6.3    26.000000     stop ZARAR     -3.03   0.00  -4.77             10:20  1dk
+2026-06-23 MOGAN tepe  17.5    15.220000 gun_sonu   KAR      0.89   0.92  -3.15    10:01    10:00  1dk
+2026-06-23 PAMEL orta   5.0    94.000000    hedef   KAR      2.97   8.09  -2.13    17:45    10:00 15dk
+2026-06-23 PSDTC orta   6.6   134.700000    hedef   KAR      2.97   3.19  -3.93    10:04    17:34  1dk
+2026-06-24 BRMEN tepe   5.8    21.720000 gun_sonu ZARAR     -0.03   0.00   0.00                    1dk
+2026-06-24  INFO tepe   5.2     6.690000 gun_sonu ZARAR     -0.03   0.00   0.00                    1dk
+2026-06-24 PAMEL orta   5.4   104.800000    hedef   KAR      2.97   3.63 -11.21    10:00    14:30 15dk
+2026-06-24 SILVR orta   6.3     2.790000    hedef   KAR      2.97   6.09  -2.15    10:10    10:03  1dk
+2026-06-25 GOODY tepe  18.0    23.020000    hedef   KAR      2.97   3.13 -13.60    10:00    17:15 15dk
+2026-06-25  INFO tepe   7.0     7.350000 gun_sonu ZARAR     -0.03   0.00  -4.22             10:04  1dk
+2026-06-25 INVEO orta   9.0     8.450000    hedef   KAR      2.97   7.34  -3.55    10:34    17:52  1dk
+2026-06-25 OSMEN orta  27.8     9.050000    hedef   KAR      2.97   6.41  -7.07    10:30    14:10  1dk
+2026-06-25  UNLU orta   7.7    13.970000     stop ZARAR     -3.03   1.65  -4.80    10:00    17:56  1dk
+2026-06-26 BALSU orta  28.7    19.000000    hedef   KAR      2.97  12.74  -2.79    17:28    12:03  1dk
+2026-06-26 DITAS orta   5.4    31.320000    hedef   KAR      2.97  15.39   0.00    17:30          15dk
+2026-06-26 GLBMD orta   8.6    14.330000     stop ZARAR     -3.03   4.47  -6.77    10:56    17:50  1dk
+2026-06-26  INFO tepe   6.5     7.050000    hedef   KAR      2.97  14.61  -1.13    13:32    10:00  1dk
+2026-06-26 PRZMA orta   7.4    49.200000     stop ZARAR     -3.03   6.50  -7.52    13:48    10:52  1dk
+2026-06-26 SNICA orta  28.3     4.800000    hedef   KAR      2.97   3.96  -0.63    10:00    10:00  1dk
+2026-06-26  TERA orta  54.8   161.000000    hedef   KAR      2.97   4.04   0.00    12:10           1dk
+2026-06-26 VKFYO orta   6.1    27.960000    hedef   KAR      2.97   3.93  -1.43    10:00    17:03  1dk
+2026-06-29 AKCNS orta  15.2   207.000000 gun_sonu ZARAR     -0.03   0.00   0.00                    1dk
+2026-06-29 BESLR orta  27.2    14.300000     stop ZARAR     -3.03   1.12  -3.43    10:00    17:11  1dk
+2026-06-29 DZGYO orta  17.2     8.870000     stop ZARAR     -3.03   0.00  -8.00             17:02  1dk
+2026-06-29 ICBCT orta   8.4    22.220000     stop ZARAR     -3.03   1.44  -7.83    10:00    18:05  1dk
+2026-06-29 ISFIN tepe  15.7    20.580000     stop ZARAR     -3.03   0.68  -3.30    10:01    18:05  1dk
+2026-06-29 MRSHL orta  62.5  1907.000000    hedef   KAR      2.97   5.66  -1.05    10:02    10:00  1dk
+2026-06-29 PRKME orta  18.9    21.020000     stop ZARAR     -3.03   2.76  -6.66    10:06    15:52  1dk
+2026-06-29 PRZMA tepe   9.7    57.600000 gun_sonu ZARAR     -0.03   0.00   0.00                    1dk
+2026-06-29 SNICA orta  13.4     5.040000     stop ZARAR     -3.03   1.59 -10.71    10:00    17:08  1dk
+2026-06-29 ZEDUR orta  23.5    10.340000    hedef   KAR      2.97   3.38  -9.96    10:49    18:05  1dk
+2026-06-30 AHSGY orta  13.7    20.400000     stop ZARAR     -3.03   2.65  -7.99    10:00    14:21  1dk
+2026-06-30 AKCNS tepe  12.8   227.700000 gun_sonu ZARAR     -0.03   0.00   0.00                    1dk
+2026-06-30 AKFIS tepe   5.5    79.250000     stop ZARAR     -3.03   1.39  -9.65    10:00    10:59  1dk
+2026-06-30 BARMA tepe   9.9    72.700000     stop ZARAR     -3.03   0.21 -10.45    10:00    11:30 15dk
+2026-06-30 CEOEM orta   6.6    26.580000     stop ZARAR     -3.03   1.28  -4.44    13:10    16:46  1dk
+2026-06-30 DMRGD tepe   9.8    11.230000    hedef   KAR      2.97   4.27  -0.18    12:52    10:03  1dk
+2026-06-30 DOFRB tepe   6.4   189.600000     stop ZARAR     -3.03   2.48  -3.85    10:06    17:57  1dk
+2026-06-30  EFOR orta   8.9    14.080000    hedef   KAR      2.97   5.11  -2.13    10:15    10:00  1dk
+2026-06-30 INVEO orta   9.3     8.840000     stop ZARAR     -3.03   1.47  -8.71    10:00    14:12  1dk
+2026-06-30 ISYAT orta   7.0     8.670000     stop ZARAR     -3.03   1.38  -6.00    10:00    16:03  1dk
+2026-06-30 KLMSN orta  68.1    35.300000     stop ZARAR     -3.03   2.89  -5.04    10:04    14:16  1dk
+2026-06-30 MRSHL tepe  14.2  2088.000000     stop ZARAR     -3.03   4.41 -12.36    13:59    11:32  1dk
+2026-06-30 PATEK orta   9.5    23.940000     stop ZARAR     -3.03   0.00  -7.18             15:24  1dk
+2026-06-30 SDTTR orta   5.8   269.000000 gun_sonu ZARAR     -1.71   2.23  -2.60    15:45    13:00 15dk
+2026-06-30 SEKUR orta   7.6    10.430000 gun_sonu ZARAR     -0.03   0.00   0.00                   15dk
+2026-06-30 TATEN orta 121.9    14.340000     stop ZARAR     -3.03   1.88  -5.16    10:00    17:03  1dk
+2026-06-30 TLMAN orta   6.0    95.950000     stop ZARAR     -3.03   0.05  -3.34    10:00    16:02  1dk
+
+-> haziran_2026_ozet.csv | haziran_2026_dipkir.csv | haziran_2026_dipkir_hisse.csv

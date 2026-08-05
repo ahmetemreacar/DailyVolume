@@ -1,0 +1,15 @@
+Double-check: 45 islem...
+================================================================================
+2026 DOUBLE-CHECK | temmuz_2026_dipkir.csv
+================================================================================
+PASS: 45/45 | FAIL: 0 | NO_DATA: 0
+
+Compound (100k baslangic):
+  Rapor CSV:                 97,840 TL (-2.16%)
+  Rapor yeniden:             97,840 TL (-2.16%)
+  Simule yeniden:            97,840 TL (-2.16%)
+  Max 1 islem/gun:           94,045 TL (-5.96%)
+  Max 3 islem/gun:           96,125 TL (-3.88%)
+  Max 5 islem/gun:           97,518 TL (-2.48%)
+
+-> temmuz_2026_double_check.csv

@@ -1,0 +1,35 @@
+Haziran 2026 taranıyor (517 hisse, yenile=False)...
+/Users/ahmetemreacar/Desktop/DailyVolume/DailyVolume/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:yfinance:HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ALTINS1.IS"}}}
+ERROR:yfinance:$ALTINS1.IS: possibly delisted; no price data found  (period=730d) (Yahoo error = "No data found, symbol may be delisted")
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['ALTINS1.IS']: possibly delisted; no price data found  (period=730d) (Yahoo error = "No data found, symbol may be delisted")
+  [30] ALTINS1: ALTINS1 verisi cekilemedi:
+  tvdatafeed: bos veri
+  yfinance: bos veri
+  ... 50/517
+  ... 100/517
+WARNING:tvDatafeed.main:you are using nologin method, data you access may be limited
+ERROR:tvDatafeed.main:The read operation timed out
+ERROR:tvDatafeed.main:no data, please check the exchange and symbol
+ERROR:yfinance:HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: DMLKTG.IS"}}}
+ERROR:yfinance:$DMLKTG.IS: possibly delisted; no price data found  (period=730d) (Yahoo error = "No data found, symbol may be delisted")
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['DMLKTG.IS']: possibly delisted; no price data found  (period=730d) (Yahoo error = "No data found, symbol may be delisted")
+  [135] DMLKTG: DMLKTG verisi cekilemedi:
+  tvdatafeed: bos veri
+  yfinance: bos veri
+  ... 150/517
+  ... 200/517
+  ... 250/517
+  ... 300/517
+  ... 350/517
+  ... 400/517
+  ... 450/517
+  ... 500/517
